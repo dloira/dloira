@@ -1,0 +1,21 @@
+Diego.Loira@github MINGW64 /C/welcome-pack (master)
+$ help whoiam
+
+##########################################################################################################################
+#                                                                                                                        #
+#                                      __          __   _                                                                #
+#                                      \ \        / /__| | ___ ___   _  __ __   ___                                      #
+#                                       \ \  /\  / / _ \ |/ __/    \| `_  `_ \ / _ \                                     #
+#                                        \ \/  \/ /  __/ | (__| (_) | | | | | |  __/                                     #
+#                                         \__/\__/ \___|_|\___\____/|_| |_| |_|\___|                                     #
+#                                                                                                                        #
+#                                                                                                                        #
+#  Hello! I'm an engineer who is passionate about technology problem solving.                                            #
+#  I enjoy thinking outside the box with team members and achieving the business success.                                #
+#  I hope you will find the content helpful.                                                                             #
+#                                                                                                                        #
+##########################################################################################################################
+
+Diego.Loira@github MINGW64 /C/welcome-pack (master)
+$ git status
+Your branch is up-to-date with 'origin/master' 
