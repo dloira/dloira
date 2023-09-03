@@ -19,7 +19,7 @@ I'm Diego from Spain, and I do content on Computer Science and Software Engineer
 [![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white&labelColor=101010)]()
 [![OctopusDeploy](https://img.shields.io/badge/OctopusDeploy-2F93E0?style=for-the-badge&logo=octopusdeploy&logoColor=white&labelColor=101010)]()
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()
-[![SqlServer](https://img.shields.io/badge/SqlServer-CC2927?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
+[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
 [![MySql](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)]()
